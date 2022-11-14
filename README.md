@@ -97,9 +97,9 @@ Comming soon..
 |0221|[bj2667](https://www.acmicpc.net/problem/2667)|단지번호붙이기|||🥕|💪||
 |0217|[bj2638](https://www.acmicpc.net/problem/2638)|치즈 |||🥕|💪||
 |0214|[bj1106](https://www.acmicpc.net/problem/1106)|호텔 |||🌞|💪||
-|0214|[bj5430](https://www.acmicpc.net/problem/5430)|AC |||🥕||| 
+|0214|[bj5430](https://www.acmicpc.net/problem/5430)|AC |||🥕|💪|| 
 |0214| [bj10799](https://www.acmicpc.net/problem/10799)|쇠막대기 |||🥕|||
-|0214|[bj3986](https://www.acmicpc.net/problem/3986)|좋은 단어 |🐯||🥕|||
-|0214|[bj2504](https://www.acmicpc.net/problem/2504)|괄호의 값|||🥕||| 
+|0214|[bj3986](https://www.acmicpc.net/problem/3986)|좋은 단어 |🐯||🥕|💪||
+|0214|[bj2504](https://www.acmicpc.net/problem/2504)|괄호의 값|||🥕|💪|| 
 |0210|[bj17952](https://www.acmicpc.net/problem/17952)|과제는 끝나지 않아! |🐯||🥕|💪||
 
