@@ -35,20 +35,20 @@ Comming soon..
 |0504|[bj1414](https://www.acmicpc.net/problem/1414)|불우이웃돕기||||||
 |0504|[bj2418](https://www.acmicpc.net/problem/2418)|단어 격자||||||
 |0504|[bj16719](https://www.acmicpc.net/problem/16719)|ZOAC|||👻|||
-|0504|[bj3107](https://www.acmicpc.net/problem/3107)|IPv6|||👻||💪|
+|0504|[bj3107](https://www.acmicpc.net/problem/3107)|IPv6|||👻|💪||
 |0504|[bj4889](https://www.acmicpc.net/problem/4889)|안정적인 문자열|||👻|||
 |0425|[bj13418](https://www.acmicpc.net/problem/13418)|학교 탐방하기||||||
-|0425|[bj14621](https://www.acmicpc.net/problem/14621)|나만 안되는 연애|||||💪|
+|0425|[bj14621](https://www.acmicpc.net/problem/14621)|나만 안되는 연애||||💪||
 |0425|[bj2887](https://www.acmicpc.net/problem/2887)|행성 터널||||||
-|0425|[bj1185](https://www.acmicpc.net/problem/1185)|유럽여행|||||💪|
-|0425|[bj14950](https://www.acmicpc.net/problem/14950)|정복자||||||
-|0420|[bj23288](https://www.acmicpc.net/problem/23288)|주사위 굴리기 2|||🎲|||
-|0419|[bj21924](https://www.acmicpc.net/problem/21924)|도시 건설||||||
-|0419|[bj1647](https://www.acmicpc.net/problem/1647)|도시 분할 계획||||||
-|0419|[bj4386](https://www.acmicpc.net/problem/4386)|별자리 만들기||||||
-|0419|[bj1922](https://www.acmicpc.net/problem/1922)|네트워크 연결||||||
-|0419|[bj16398](https://www.acmicpc.net/problem/16398)|행성 연결||||||
-|0415|[pg92342](https://programmers.co.kr/learn/courses/30/lessons/92342)|양궁대회|||🌧|||
+|0425|[bj1185](https://www.acmicpc.net/problem/1185)|유럽여행||||💪||
+|0425|[bj14950](https://www.acmicpc.net/problem/14950)|정복자||||💪||
+|0420|[bj23288](https://www.acmicpc.net/problem/23288)|주사위 굴리기 2|||🎲|💪||
+|0419|[bj21924](https://www.acmicpc.net/problem/21924)|도시 건설||||💪||
+|0419|[bj1647](https://www.acmicpc.net/problem/1647)|도시 분할 계획||||💪||
+|0419|[bj4386](https://www.acmicpc.net/problem/4386)|별자리 만들기||||💪||
+|0419|[bj1922](https://www.acmicpc.net/problem/1922)|네트워크 연결||||💪||
+|0419|[bj16398](https://www.acmicpc.net/problem/16398)|행성 연결||||💪||
+|0415|[pg92342](https://programmers.co.kr/learn/courses/30/lessons/92342)|양궁대회|||🌧|💪||
 |0415|[pg92344](https://programmers.co.kr/learn/courses/30/lessons/92344)|파괴되지 않은 건물|||🌧|||
 |0411|[sw5644](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo)|무선 충전|||🎱|💪||
 |0411|[sw5653](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRJ8EKe48DFAUo)|줄기세포배양|||🎱|💪||
